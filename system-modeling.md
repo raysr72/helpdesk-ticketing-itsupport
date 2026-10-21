@@ -41,7 +41,7 @@ Aktivitas / proses yang terlibat :
 ## Relasi Basis Data
 Perancangan skema basis data relasional  yang menghubungkan entitas operasional guna menjamin integritas data sistem helpdesk.
 
-![relasi basis data](img/basis-data.png)
+![relasi basis data](img/basis-data_1.png)
 
 Tabel Utama yang Digunakan:
 
